@@ -1,0 +1,53 @@
+body {
+    font-family: font-family: "Lato", sans-serif;
+}
+
+header {
+    background-color: rgba(229, 84, 115, 0.10);
+    ;
+    background-image: url(Flower-Asset/pngwing\ 10.png);
+    background-repeat:no-repeat ;
+    background-position:1050px bottom;
+    background-size: 500px;
+}
+
+.main-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 100px;
+}
+
+.banner-text {
+    max-width: 500px;
+    margin: 100px 400px 130px 200px;
+}
+
+.banner-pic .banner-text {
+    width: 500px;
+    height: 600px;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    background: #ee1983;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+
+h1 {
+    color: #272727;
+    font-size: 60px;
+    font-weight: 800;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    margin-bottom: 32px;
+}
